@@ -18,7 +18,7 @@ MCA graduate with hands-on project experience in **Data Analysis**, **Data Clean
 
 - 🎓 Pursuing **MCA** at Galgotias University *(2024 – 2026)*
 - 🏫 Completed **BCA** from University of Lucknow *(2021 – 2024)*
-- 📍 Based in **Delhi, India**
+- 📍 Based in **Ashok Nagar, India**
 - 📊 Core tools: **Excel · SQL · Power BI · Python**
 - 🔍 Interests: Business Intelligence, Predictive Analytics, Data Storytelling
 - 📬 Reach me at **dinug627@gmail.com**
